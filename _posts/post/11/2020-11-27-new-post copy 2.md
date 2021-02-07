@@ -8,7 +8,7 @@ title: Music project
 ![alt text]({{pooria159.github.io}}\assets\images\music.jpg)
 
 
-*[click to run music](https://pooria159.github.io/music/finaly.mp3)
+!audio[music](https://pooria159.github.io/music/finaly.mp3)
 
 
 

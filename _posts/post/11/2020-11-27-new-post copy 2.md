@@ -7,7 +7,7 @@ ahang .......
 ![alt text]({{pooria159.github.io}}\assets\images\music.jpg)
 
 
-*[my_Music](http://pooria159.github.io/assets/music/finaly.mp3)
+[Click to download music](http://pooria159.github.io/assets/music/finaly.mp3)
 
 
 

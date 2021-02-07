@@ -14,7 +14,7 @@ title: Music project
 آن جاها نبودند ولی حس خوبی رو منتقل می کرد و در آخر هم با اجرای سمپل های مختلف آهنگی را ساختیم<br>
 
 
-[Click to download music](http://pooria159.github.io/assets/music/finaly.mp3)
+[Click to download music](http://pooria159.github.io/assets/music/music.mp3)
 
 
 

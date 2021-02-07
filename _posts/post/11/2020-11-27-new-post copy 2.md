@@ -8,8 +8,7 @@ title: Music project
 ![alt text]({{pooria159.github.io}}\assets\images\music.jpg)
 
 
-
-[music] : https://pooria159.github.io/music/finaly.mp3
+*[M](https://pooria159.github.io/music/finaly.mp3)
 
 
 
